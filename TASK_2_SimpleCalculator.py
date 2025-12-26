@@ -1,3 +1,6 @@
+#TASK 2
+#Simple Calculator
+
 def sum(a,b):
     sum = a+b
     return sum
@@ -54,5 +57,6 @@ elif operation_choice == "6":
 
 else:
     print("Invalid operation asked")
+
 
 
