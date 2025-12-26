@@ -1,5 +1,5 @@
 #TASK 4
-#Game Stone Paper Scissor
+#Game Rock Paper Scissor
 
 import random
 from enum import IntEnum
@@ -55,4 +55,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
